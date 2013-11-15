@@ -1,4 +1,4 @@
-Architcture
+Architecture
 ===========
 
 Neuron and Synapse
