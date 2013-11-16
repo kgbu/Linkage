@@ -1,12 +1,18 @@
 Linkage
 =======
 
-A dynamic linkage representation on processes
+A dynamic linkage representation on processes(neurons)
 
 
+Major players
+=============
 
-ScoreBoard (feeder of indices)
+* ScoreBoard (shouting neurons on stage : "consciousness" in my system)
+* Looper (Neurons : worker to maintain linkage)
+* SynapsePool (bunch of connection statuses of Neurons)
 
-Looper (worker to maintain linkage)
+Implementation matters
+======================
 
-SynapsePool (DB)
+Prototyped in Erlang programming language.
+
